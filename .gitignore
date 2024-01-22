@@ -1,5 +1,5 @@
 # Ignore Environment
-/venv
+/env
 
 # Ignore Database
 *.sqlite3
