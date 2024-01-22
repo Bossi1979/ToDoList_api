@@ -1,8 +1,2 @@
 # Ignore Environment
 /env
-
-# Ignore Database
-*.sqlite3
-
-# Ignore up.bat
-*.bat
